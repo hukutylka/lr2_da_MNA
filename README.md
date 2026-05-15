@@ -77,6 +77,10 @@ data/DisneylandReviews.csv
 pip install -r requirements.txt
 ```
 
+### Текст env
+GEMINI_API_KEY=AIzaSyB_3QY23wAuVSr9iG28QTPrYupFxUFHvZU
+GEMINI_MODEL=gemini-2.5-flash-lite
+
 ## Запуск проекта
 Пример запуска для обработки 10 отзывов пакетами по 2:
 ```bash
